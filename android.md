@@ -14,8 +14,6 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
 - Deprecated use of initPlayer(). MKPlayer construction takes care of initialization
 - Deprecated DeveloperID for UMCless communication
 
-Known Issues:
-- RefApp: DAI Ad markers not available yet 
 
 
 # MKPlayerSDK Android Releases
