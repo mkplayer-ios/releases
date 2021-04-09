@@ -1,3 +1,19 @@
+# MKPlayerSDK Android Releases
+
+Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
+
+## 0.9.4 - 2021.04.09
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.4/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-0.9.4.zip)
+
+**Change log:**
+- Optimised Android RefApp UI for FireTV support
+  - Add Leanback support
+  - Design new UI to support FireTV
+  - Handle remote key events
+- BitMovin fix for missing metadata events for DAI support on Android       
+- Added support for Backendconfiguration. Moved serverUrl and ownerUid under MKPBackendCoonfiguration and moved this config into MKPSourceConfigurarion
+
+
 
 # MKPlayerSDK Android Releases
 
