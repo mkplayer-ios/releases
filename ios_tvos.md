@@ -12,7 +12,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0
    - Not supported PBRs - Program boundary scenario for Live, Stream count, Jail broken, HDMI blocked, AV Adapter, OOH blocked
 - Shortcode Authentication for RefApp
 - Ability to pass CDN token in master manifest URL
-- CDN selection based on cdnFailoverPercent 
+- Added support for CDN selection based on cdnFailoverPercent 
 
 
 ## 0.9.6 (2021.04.09)
