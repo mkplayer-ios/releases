@@ -14,8 +14,6 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
 
 
 
-# MKPlayerSDK Android Releases
-
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 
 ## 0.9.3 - 2021.03.26
@@ -30,8 +28,6 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
 - Deprecated DeveloperID for UMCless communication
 
 
-
-# MKPlayerSDK Android Releases
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 
