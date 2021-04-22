@@ -1,6 +1,20 @@
 
 # MKPlayerSDK iOS/tvOS Releases
 
+## 0.9.7 (2021.04.23)
+
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.7/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-0.9.7.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-0.9.7.zip)
+
+**Change log:**
+- Added playback restriction (PBR) support
+   - Support added for playback blocking PBRs (wifi, cellular, Airplay, phone, tablet, iOS blocked PBRs)   
+   - Support added for playback control blocking PBRs (rewind, fastForward, seekBackward, seekForwards, pause/resume, restart blocked PBRs)
+   - Not supported PBRs - Program boundary scenario for Live, Stream count, Jail broken, HDMI blocked, AV Adapter, OOH blocked
+- Shortcode Authentication for RefApp
+- Ability to pass CDN token in master manifest URL
+- CDN selection based on cdnFailoverPercent 
+
+
 ## 0.9.6 (2021.04.09)
 
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.6/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-0.9.6.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-0.9.6.zip)
