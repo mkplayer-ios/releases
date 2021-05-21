@@ -6,7 +6,7 @@
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.9/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-0.9.9.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-0.9.9.zip)
 
 **Change log:**
-- Improvements to PBR Support for Live across program boundary transition
+- Improvements to PBR support for Live across program boundary transition
 - Improvements to RefApp UI for tvOS
    - Implemented the draggable progress bar for the seek functionality
    - Focus issue with restart button - Fixed
