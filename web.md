@@ -1,9 +1,9 @@
 ---
 # Mediakind WMC SDK Releases
 
-## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/refapp/index.html)
+## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
-## Release - 1.40.11
+## Release - 1.42.11
 - Improvements:
     -  Added support for HLS+WV and HLS+PR Encrypted Playback on Chrome and Edge browsers
     -  Added Xbox encrypted playback support
@@ -15,7 +15,7 @@
        - Updated with MKP service related communication API
 
 - Bug Fixes:
-    -  
+    -  Bug 1232318: On DVR asset user can perform pause/resume operation for pause resume blocked media
 
 
 ## Release - 1.40.10
