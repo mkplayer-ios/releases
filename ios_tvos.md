@@ -8,18 +8,12 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1
 
 **Added:**
 - Provided Video Scaling mode APIs from SDK
-- Pass accountId for MKPBackendConfiguration to support ...??
-- STS token update during playback ??
+- Adding accoundId to MKPBackendConfiguration
+- Added API updateAuthToken() to provide means to update the auth token during playback
 
 **Changed:**
 - Bitmovin player version upgraded to 2.64.0
-
-**Removed:**
-
-**Fixed:**
-
-**Known Issues:**
-
+- Renamed MKPSourceConfiguration param applicationName to applicationToken
 
 
 ## 0.9.9 (2021.05.21)
