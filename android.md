@@ -5,8 +5,6 @@ Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 ## 1.0.0 - 2021.06.07
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.0/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.0.zip)
 
-**Change log:**
-
 **Added:**
 - Program Query for Live channels
 - Playback Restriction (PBR) support for Live across program boundary transition
