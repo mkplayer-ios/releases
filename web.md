@@ -8,14 +8,11 @@
     -  Added support for HLS+WV and HLS+PR Encrypted Playback on Chrome and Edge browsers
     -  Added Xbox encrypted playback support
     -  Removed debugger lock from release/secure builds and NPM releases
-    -  Added accountId in ....
-    -  Improve WMC-SDK documentation
+    -  Added support for Guest user functionality in the SDK
+    -  Improved WMC SDK documentation
        - Added an example tutorial for encrypted playback of MK assets
-       - Added player key and domain white- list related information
+       - Added player key and domain white list related information
        - Updated with MKP service related communication API
-
-- Bug Fixes:
-    -  Bug 1232318: On DVR asset user can perform pause/resume operation for pause resume blocked media
 
 
 ## Release - 1.40.10
