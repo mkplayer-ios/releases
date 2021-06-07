@@ -9,7 +9,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.
 - Program Query for Live channels
 - Playback Restriction (PBR) support for Live across program boundary transition
 - Provided Video Scaling mode APIs from SDK 
-- Adding accoundId to MKPBackendConfiguration
+- Added accoundId to MKPBackendConfiguration
 - Added API updateAuthToken() to provide means to update the auth token during playback
 
 **Changed:**
