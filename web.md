@@ -15,30 +15,30 @@
        - Updated with MKP service related communication API
 
 
-## Release - 1.40.10
+## 1.40.10
 - Bug Fixes:
     -  Bug 1237812: On performing restart operation, VOD asset throws '4-44-225' error
  - Improvements:
     -  PBI 1238049: Implement Restart Window PBR
     -  Improve WMC-SDK documents
-## Release - 1.40.9
+## 1.40.9
 - Bug Fixes:
     -  Bug 1242738: CDN selection issue when multiple CDN assign from backend
  - Improvements:
     -  WMC SDK to handle playback control blocking PBRs during Program Change.
-## Release - 1.40.8
+## 1.40.8
 - Bug Fixes:
     - Bug 1203880: After the Quality levels change, Paused media is getting Resumed
  - Improvements:
     -  Improve WMC-SDK documents.
-## Release - 1.40.7
+## 1.40.7
  - Bug Fixes:
     - Bug 1238223: Enable Live manifest by default and remove RefApp UI interface for feature
     - Bug 1238047: Program timer is not getting updated on player screen, although the query is coming properly
     - Bug 1227021: 4-44-2413 - Reached the max parallel limit
  - Improvements:
     -  PBI 1232680: WMC SDK to handle playback control blocking PBR's.
-## Release - 1.40.6
+## 1.40.6
  - Bug Fixes:
    - Bug 1231979: [WMC][Safari][Live manifest] Manifest changes from start=<LIVE> to start=<SlotStartTime> after performing one skip rewind
  - Improvements:
