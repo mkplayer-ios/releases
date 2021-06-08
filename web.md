@@ -3,12 +3,13 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
-## Release - 1.42.11
+## Release - 1.42.11 - 
 - **Change log:**
     -  Added support for HLS+WV and HLS+PR Encrypted Playback on Chrome and Edge browsers
     -  Added Xbox encrypted playback support
     -  Removed debugger lock from release/secure builds and NPM releases
     -  Added support for Guest user functionality in the SDK
+    - Support for playback using JWT based auth token
     -  Improved WMC SDK documentation
        - Added an example tutorial for encrypted playback of MK assets
        - Added player key and domain white list related information
