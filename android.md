@@ -10,7 +10,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.
 - Efficient thread synchronisation in abrupt scenarios
 
 **Fixed:**
-- Fixed app crash after invoking player.onActivityDestroyed() while playback is intitiated
+- Fixed app crash after invoking player.onActivityDestroyed() while playback is initiated
 
 
 ## 1.0.0 - 2021.06.08
