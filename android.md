@@ -2,6 +2,17 @@
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 
+
+## 1.0.1 - 2021.06.18
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.1/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.1.zip)
+
+**Added:**
+- Efficient thread synchronisation in abrupt scenarios
+
+**Fixed:**
+- Fixed app crash after calling player.onActivityDestroyed() while playback is on going
+
+
 ## 1.0.0 - 2021.06.08
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.0/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.0.zip)
 
