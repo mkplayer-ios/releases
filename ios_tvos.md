@@ -1,6 +1,17 @@
 
 # MKPlayerSDK iOS/tvOS Releases
 
+## 1.0.1 (2021.07.02)
+
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.1/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.1.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.1.zip)
+
+**Added:**
+- Added support for Seeking within the live manifest
+- Exposed getSeekableRange() API to allow user to seek within the live window
+- Added support to append personalInfo params to the manifest URL
+- Added support for the key/values in the CDN Token to overwrite with the matching key/values in the manifest URL and/or append the key/values if do not exist
+- Printing the live latency in the RefApp
+
 
 ## 1.0.0 (2021.06.08)
 
