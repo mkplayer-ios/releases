@@ -6,7 +6,8 @@
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.3/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.3.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.3.zip)
 
 **Added:**
-
+- Added support for Picture in Picture
+- Reference application enhancement: Added Progress bar and provision to validate seeking functionality in the live window  
 
 ## 1.0.1 (2021.07.02)
 
