@@ -6,7 +6,7 @@ Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.3/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.3.zip)
 
 **Added:**
-
+- Added support for Picture in Picture
 
 ## 1.0.2 - 2021.07.02
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.2/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.2.zip)
