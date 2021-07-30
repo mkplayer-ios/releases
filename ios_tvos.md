@@ -1,6 +1,14 @@
 
 # MKPlayerSDK iOS/tvOS Releases
 
+## 1.0.4 (2021.07.30)
+
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.4/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.4.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.4.zip)
+
+**Added:**
+- Added support for Closed captions
+- Added SessionId in User Information that is passed to PRISMA. This is to uniquely identify login of the same account multiple devices
+
 ## 1.0.3 (2021.07.16)
 
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.3/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.3.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.3.zip)
