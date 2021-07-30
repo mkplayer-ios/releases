@@ -3,6 +3,12 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
+## 1.44.20 - 2021.07.30
+- **Change log:**
+  - Added support for Closed captions
+  - Added support for live bookmark (in live window only)
+  - Added SessionId in User Information that is passed to PRISMA. This is to uniquely identify login of the same account multiple devices 
+        
 ## 1.44.16 - 2021.07.16
 - **Change log:**
   - Fixed inconsistencies in getSeekableRange() across all the browsers
