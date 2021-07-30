@@ -1,6 +1,6 @@
 # MKPlayerSDK Android Releases
 
-Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
+Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/repos/tree/General/mkplayer%2Fcom%2Fmediakind%2Fmkplayer)
 
 ## 1.0.3 - 2021.07.16
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.3/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.3.zip)
