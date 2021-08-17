@@ -1,11 +1,17 @@
 # MKPlayerSDK Android Releases
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/repos/tree/General/mkplayer%2Fcom%2Fmediakind%2Fmkplayer)
+
+## 1.0.5 - 2021.08.17
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.5/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.5.zip)
+**Added:**
+- Added support for absolute position
+
 ## 1.0.4 - 2021.07.30
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.4/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.4.zip)
 **Added:**
 - Added support for Closed captions
-- Added SessionId in User Information that is passed to PRISMA. This is to uniquely identify login of the same account multiple devices
+- Added SessionId in User Information that is passed to PRISMA. This is to uniquely identify login of the same account on multiple devices
 ## 1.0.3 - 2021.07.16
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.3/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.3.zip)
 
