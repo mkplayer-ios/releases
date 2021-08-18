@@ -5,10 +5,10 @@
 
 ## 1.44.21 - 2021.08.18
 - **Change log:**
-- Support for playback of VOD assets with Ads (DAI for VOD)
-    - Smooth transition from Ad to VOD and vice versa
-    - Ad tracking events are sent to the tracking server specified in the manifest
-    - Support for Ad Playback events to the SDK Client
+  - Support for playback of VOD assets with Ads (DAI for VOD)
+      - Smooth transition from Ad to VOD and vice versa
+      - Ad tracking events are sent to the tracking server specified in the manifest
+      - Support for Ad Playback events to the SDK Client
   
 ## 1.44.20 - 2021.07.30
 - **Change log:**
