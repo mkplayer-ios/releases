@@ -6,6 +6,10 @@ Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/repos/tree
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.5/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.5.zip)
 **Added:**
 - Added support for absolute position
+- Support for playback of VOD assets with Ads (DAI  for VOD)
+    -  Smooth transition from Ad to VOD and vice versa
+    -  Ad tracking events are sent to the tracking server specified in the manifest
+    -  Support for Ad Playback events to the SDK Client 
 
 ## 1.0.4 - 2021.07.30
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.4/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.4.zip)
