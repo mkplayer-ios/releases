@@ -7,7 +7,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.
 **Added:**
 - Support for playback of Live and VOD assets with Ads
      - Handled generically for all Ad tracking data. Validated with NBA Prod C assets
-- Live book mark ( in the live window)
+- Support for tuning to a live event/channel at given start offset (in the live window)
 
 
 ## 1.0.6 - 2021.08.19
