@@ -3,6 +3,15 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
+## 1.44.22 - 2021.08.27
+- **Change log:**
+- Support for playback of Live and VOD assets with Ads
+    - Handled generically for all Ad tracking data. Validated with NBA Prod C assets
+- Live book mark ( in the live window)
+- Sample application for Samsung Tizen, LG Web OS (Initial version)
+    - Playback of clear/encrypted content with basic controls like Play/Stop/Pause/Restart
+    - Have pre-configured source list to validate various types of content
+
 ## 1.44.21 - 2021.08.18
 - **Change log:**
   - Support for playback of VOD assets with Ads (DAI for VOD)
