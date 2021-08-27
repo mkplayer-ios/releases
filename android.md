@@ -2,6 +2,14 @@
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/repos/tree/General/mkplayer%2Fcom%2Fmediakind%2Fmkplayer)
 
+## 1.0.7 - 2021.08.27
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.7/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.7.zip)
+**Added:**
+- Support for playback of Live and VOD assets with Ads
+     - Handled generically for all Ad tracking data. Validated with NBA Prod C assets
+- Live book mark ( in the live window)
+
+
 ## 1.0.6 - 2021.08.19
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.6/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.6.zip)
 **Added:**
