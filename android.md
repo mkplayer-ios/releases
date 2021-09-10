@@ -2,6 +2,15 @@
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/repos/tree/General/mkplayer%2Fcom%2Fmediakind%2Fmkplayer)
 
+## 1.0.8 - 2021.09.10
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.8/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.8.zip)
+**Added:**
+- Added support for absolute position in book mark (startOffset in absolute position in SourceOptions) 
+- Unified player.seek API for both Live and VOD
+- Added provision for JWT login in MKPlayer Reference Application
+**Known limitation:** Seeking in a live stream with pre-roll is not working on Android due to an issue in the player.
+Work around is to disable pre-roll by setting ads=no as part of cdn token if you are developing/testing seeking functionality
+on Android phones/tabs
 ## 1.0.7 - 2021.08.27
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.7/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.7.zip)
 **Added:**
