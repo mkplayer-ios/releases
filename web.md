@@ -3,6 +3,18 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
+## 1.44.24 - 2021.09.10
+- **Change log:**
+- Sample application for Samsung Tizen
+    - Added support for
+         - Trick modes
+         - Closed captions/Subtitles
+         - Quality selection
+    - Have pre-configured source list to validate various types of content
+- Fixed few issues in Ad tracking functionality
+    - Ad tracking events were missed some times on Safari
+    - Some times Ad tracking events are sent in quick succession
+      
 ## 1.44.22 - 2021.08.27
 - **Change log:**
 - Support for playback of Live and VOD assets with Ads
