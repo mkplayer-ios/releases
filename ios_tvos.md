@@ -1,5 +1,12 @@
 
 # MKPlayerSDK iOS/tvOS Releases
+## 1.0.7 (2021.09.10)
+
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.7/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.7.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.7.zip)
+
+**Added:**
+- Added support for absolute position in book mark (startOffset in absolute position in SourceOptions) 
+- Unified player.seek API for both Live and VOD
 
 ## 1.0.6 (2021.08.27)
 
