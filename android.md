@@ -2,6 +2,16 @@
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/repos/tree/General/mkplayer%2Fcom%2Fmediakind%2Fmkplayer)
 
+## 1.0.9 - 2021.09.24
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.9/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.9.zip)
+**Added:**
+- Fixes for below ADOs 
+   - Bug 25791: MK: Live Player Seek to SeekableRange.Start moves Position to Live/End edge(resets to live) rather than Start edge
+   - Bug 25045: MediaKind - Android 1.0.6 - Crash on x86 MDPI emulator running OS 24
+**Known limitation:** Seeking in a live stream with pre-roll is not working on Android due to an issue in the player.
+Work around is to disable pre-roll by setting ads=no as part of cdn token if you are developing/testing seeking functionality
+on Android phones/tabs
+
 ## 1.0.8 - 2021.09.10
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.8/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.8.zip)
 **Added:**
