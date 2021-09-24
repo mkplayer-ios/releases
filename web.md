@@ -13,7 +13,6 @@
     - Have pre-configured source list to validate various types of content
 - Browser Ref App
     - Logging Ad tracking events with their offset
-    - Some times Ad tracking events are sent in quick succession
 - Fix for React Native Build Error
     
 ## 1.44.24 - 2021.09.10
