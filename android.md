@@ -4,6 +4,7 @@ Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/repos/tree
 
 ## 1.0.9 - 2021.09.24
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.9/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.9.zip)
+
 **Added:**
 - Fixes for below ADOs 
    - Bug 25791: MK: Live Player Seek to SeekableRange.Start moves Position to Live/End edge(resets to live) rather than Start edge
@@ -14,6 +15,7 @@ on Android phones/tabs
 
 ## 1.0.8 - 2021.09.10
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.8/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.8.zip)
+
 **Added:**
 - Added support for absolute position in book mark (startOffset in absolute position in SourceOptions) 
 - Unified player.seek API for both Live and VOD
@@ -31,11 +33,13 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.
 
 ## 1.0.6 - 2021.08.19
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.6/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.6.zip)
+
 **Added:**
 - Fixed Live Event Playback issue - ADO 23324
 
 ## 1.0.5 - 2021.08.17
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.5/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.5.zip)
+
 **Added:**
 - Added support for absolute position
 - Support for playback of VOD assets with Ads (DAI  for VOD)
@@ -45,6 +49,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.
 
 ## 1.0.4 - 2021.07.30
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.4/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.4.zip)
+
 **Added:**
 - Added support for Closed captions
 - Added SessionId in User Information that is passed to PRISMA. This is to uniquely identify login of the same account on multiple devices
