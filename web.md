@@ -3,6 +3,19 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/RefApp/index.html)
 
+## 1.44.26 - 2021.09.24
+- **Change log:**
+- Sample application for Samsung Tizen
+    - Enhanced Dynamic Ad Insertion UI
+         - Ad Markers
+         - Ad Count for the case of multiple Ads in the Ad Break
+         - Logging Ad tracking events with their offset
+    - Have pre-configured source list to validate various types of content
+- Browser Ref App
+    - Logging Ad tracking events with their offset
+    - Some times Ad tracking events are sent in quick succession
+- Fix for React Native Build Error
+    
 ## 1.44.24 - 2021.09.10
 - **Change log:**
 - Sample application for Samsung Tizen
